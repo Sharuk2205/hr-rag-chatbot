@@ -1,8 +1,5 @@
 # HR Policy RAG Chatbot
 
-GitHub Repo - (https://github.com/your-username/your-repo)  
-Docker Pulls - (https://hub.docker.com/r/your-dockerhub-repo)
-
 ---
 
 ## Overview
@@ -88,6 +85,8 @@ streamlit run streamlit_app.py
 Visit http://localhost:8501 to interact with the chatbot.
 
 ## Docker Setup
+ 
+Docker Pulls - (https://hub.docker.com/r/your-dockerhub-repo)
 
 1. Build Docker image:
 
