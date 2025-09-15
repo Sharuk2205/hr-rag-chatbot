@@ -33,8 +33,7 @@ RAG_HR_Chatbot/
 ├── streamlit_app.py     # Streamlit frontend
 ├── HR-Policy.pdf        # HR policy document
 ├── requirements.txt     # Dependencies
-├── Dockerfile           # Docker build instructions
-└── README.md            # Project documentation
+
 ```
 
 ## Installation (Local)
