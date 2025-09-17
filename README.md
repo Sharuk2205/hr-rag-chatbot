@@ -1,5 +1,8 @@
 # HR Policy RAG Chatbot
 
+<img width="1454" height="623" alt="image" src="https://github.com/user-attachments/assets/710eca8a-e684-4c99-8359-dec874e91254" />
+
+
 ---
 
 ## Overview
