@@ -44,7 +44,7 @@ RAG_HR_Chatbot/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Sharuk2205/RAG_HR_Chatbot
+git clone (https://github.com/Sharuk2205/hr-rag-chatbot)
 cd RAG_HR_Chatbot
 ```
 
@@ -86,21 +86,5 @@ streamlit run streamlit_app.py
 
 Visit http://localhost:8501 to interact with the chatbot.
 
-## Docker Setup
- 
-Docker Pulls - (https://hub.docker.com/r/your-dockerhub-repo)
 
-1. Build Docker image:
-
-```bash
-docker build -t hr-policy-chatbot .
-```
-
-2. Run Docker container:
-
-```bash
-docker run --env-file .env -p 8000:8000 -p 8501:8501 hr-policy-chatbot
-```
-
-Visit `http://localhost:8501` for the frontend and `http://localhost:8000/docs` for FastAPI docs.
 
